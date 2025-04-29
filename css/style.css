@@ -709,6 +709,12 @@ section.graybg{
 
 /*------------------------ 5 Resume Section ------------------------*/
 
+.company-logo {
+    width: 75%;
+    height: 100px;
+    object-fit: contain;
+  }
+
 ul.timeline{
     margin-left: 10px;
 }
